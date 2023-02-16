@@ -16,6 +16,12 @@ public class SBIBankTestCases {
 
 		driver.get("https://www.onlinesbi.sbi/");
 		Thread.sleep(5000);
+		driver.get("https://www.onlinesbi.sbi/");
+		Thread.sleep(5000);
+		driver.get("https://www.onlinesbi.sbi/");
+		Thread.sleep(5000);
+		driver.get("https://www.onlinesbi.sbi/");
+		Thread.sleep(5000);
 		
 		Actions a = new Actions (driver);
 		
