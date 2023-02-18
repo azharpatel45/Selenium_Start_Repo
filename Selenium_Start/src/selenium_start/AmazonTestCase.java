@@ -46,7 +46,7 @@ public class AmazonTestCase {
 		WebElement createNewAcc = driver.findElement(By.xpath("//a[@id='createAccountSubmit']"));
 		
 		createNewAcc.click();*/
-		
+		Thread.sleep(3000);
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Automation\\New folder\\chromedriver_win32 (1)\\chromedriver.exe");
 		
