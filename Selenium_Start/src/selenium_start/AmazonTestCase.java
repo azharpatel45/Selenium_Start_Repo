@@ -20,6 +20,10 @@ public class AmazonTestCase {
 		WebDriver driver = new ChromeDriver ();
 		
 		Thread.sleep(5000);
+		Thread.sleep(5000);
+		Thread.sleep(5000);
+		Thread.sleep(5000);
+		Thread.sleep(5000);
 		
 		driver.get("https://www.amazon.in/");
 		
